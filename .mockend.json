@@ -3,5 +3,10 @@
     "title": {
       "string": {}
     }
+  },
+  "Case": {
+    "caseNumber": {
+      "string": {} 
+    }
   }
 }
